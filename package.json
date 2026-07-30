@@ -1,0 +1,25 @@
+{
+  "name": "sari-sari-backend",
+  "version": "1.0.0",
+  "description": "backend submission for MITC 702 - Advance Database Systems (2026)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "seed": "node seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikkolas-Cage/sari-sari-backend.git"
+  },
+  "author": "Nico G. Guarnes",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.10.0",
+    "mongoose": "^8.16.5",
+    "ws": "^8.21.1"
+  }
+}
