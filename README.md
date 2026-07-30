@@ -42,6 +42,9 @@ See the frontend README for the full UX feature list and platform justification.
 | Realtime | **ws** (WebSocket) at `/ws` |
 | Config | **dotenv**, **cors** |
 
+<img width="1368" height="632" alt="image" src="https://github.com/user-attachments/assets/390617e7-6c54-4f80-9017-b5c2269a9267" />
+
+
 ### Main modules
 
 | Path | Responsibility |
