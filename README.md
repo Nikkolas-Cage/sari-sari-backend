@@ -7,6 +7,9 @@ API and realtime server for **Choice A: The Sari-Sari Store System** (The “Dat
 
 Companion frontend: Next.js web app (seller POS + buyer shop).
 
+https://github.com/user-attachments/assets/5c4e4723-a57a-4d36-ade8-f6e976e1aca8
+
+
 ---
 
 ## Project choice & platform
